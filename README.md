@@ -19,7 +19,6 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white)
 
 <div align="center">
-<!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
 <img height="125px" src="https://github-readme-stats.vercel.app/api?username=ducvinh101101&show_icons=true&theme=dracula" />
 <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducvinh101101&hide=html&layout=compact&theme=dracula" />
 <img height="125px" src="https://github-readme-streak-stats.herokuapp.com/?user=ducvinh101101&hide=html&layout=compact&theme=dracula" />
@@ -28,8 +27,9 @@
 <img src="https://github-trophies.vercel.app/?username=ducvinh101101&theme=gitdimmed&row=1&column=9">
 </p>
 <hr>
-<!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-1504&hide=html&layout=compact&theme=dracula" /> -->
+
 </div>
+<img align='right' src="https://komarev.com/ghpvc/?username=ducvinh101101" alt="ducvinh101101" />
 <!--
 **ducvinh101101/ducvinh101101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
